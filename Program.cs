@@ -11,6 +11,7 @@ namespace StreamReadWrite
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world");
             int k = int.Parse("475");
             Console.WriteLine(k);
 
