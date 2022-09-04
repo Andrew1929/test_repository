@@ -1,0 +1,20 @@
+!Distr
+$Recycle.Bin
+$SysReset
+$WinREAgent
+Config
+Documents and Settings
+DRIVERS
+eSupport
+Games
+Microsoft
+OneDriveTemp
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+Riot Games
+System Volume Information
+Temp
+Users
+Windows
